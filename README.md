@@ -1,6 +1,6 @@
 # PakeezaVerse — Personal Portfolio 🌐
 
-A modern, responsive, and interactive personal portfolio website showcasing my skills, projects, education, and journey as an **IT Graduate, Frontend Web Developer, and AI Enthusiast**.
+A modern, responsive, and interactive personal portfolio website showcasing my skills, projects, education, and journey as a **BS Information Technology Graduate, Frontend Web Developer, and AI Enthusiast**.
 
 ## 🚀 Live Portfolio
 
@@ -28,9 +28,6 @@ A modern, responsive, and interactive personal portfolio website showcasing my s
 - Vite
 - Supabase
 - EmailJS
-- Bootstrap / Responsive CSS
-- Google Fonts
-- Font Awesome
 
 ## 📂 Project Structure
 
